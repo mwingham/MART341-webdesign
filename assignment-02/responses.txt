@@ -1,0 +1,3 @@
+A directory is a categorizeing system for files, you use the directory to store files.
+VCS is useful for individuals to track the previous edits and return to see the original state.
+my favorite artistic medium is watercolor.
