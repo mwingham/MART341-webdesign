@@ -1,0 +1,32 @@
+#header {
+  background-image: url("../images/sidewalk.jpg");
+}
+
+H1{
+  color: #95B38C;
+  font-family: Merriweather;
+  font-size: 100px;
+}
+
+.subtitle{
+  font-family: Merriweather;
+  font-size: 55px;
+}
+
+.titleBorder{
+  Height: 200px;
+  background-color: #E8EFC6;
+  color: #E8EFC6;
+}
+
+#title:hover{
+  letter-spacing: .5em;
+  Color: #95B38C;
+}
+
+.titleBorder:hover{
+  background-color: #8CC3EA;
+  color: White;
+  text-indent:11em;
+  font-family: Quicksand;
+}
