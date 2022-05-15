@@ -1,25 +1,31 @@
 body{
-  background-color: #204523;
+  background-color: #93C196;
   font-family: OleoScript;
   font-family:josefinsans;
   text-align:center;
 }
 
 H1{
-  color: #EAF1D5;
-  font-family:OleoScript ;
+  color: #526E5A;
+  font-family:josefinsans;
   font-size: 50px;
   letter-spacing: .1em;
 }
 
 H2{
-  color: #689A6B;
+  color: #526E5A;
   font-family: josefinsans;
   font-size: 70px;
   letter-spacing: .5em;
 }
+H3{
+  color: #7C785E;
+  font-family:OleoScript;
+  font-size: 50px;
+  letter-spacing: .1em;
+}
 p{
-  color: #EAF1D5;
+  color: #7C785E;
   font-family:Yanone;
   font-size: 28px;
   letter-spacing: .1em;
